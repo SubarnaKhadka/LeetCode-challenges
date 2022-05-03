@@ -11,6 +11,8 @@
  # [10) 191.Number of 1 Bits #Easy](https://leetcode.com/problems/number-of-1-bits/)
  # [11) 66.Plus One #Easy](https://leetcode.com/problems/plus-one/)
  # [12) 125.valid Palindrome #Easy](https://leetcode.com/problems/valid-palindrome/)
+ # [13) 190.Reverse Bits #Easy](https://leetcode.com/problems/reverse-bits/)
+ 
  
 
  
