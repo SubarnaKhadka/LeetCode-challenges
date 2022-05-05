@@ -12,6 +12,11 @@
  # [11) 66.Plus One #Easy](https://leetcode.com/problems/plus-one/)
  # [12) 125.valid Palindrome #Easy](https://leetcode.com/problems/valid-palindrome/)
  # [13) 190.Reverse Bits #Easy](https://leetcode.com/problems/reverse-bits/)
+ # [14) 1094. Car Pooling #Medium](https://leetcode.com/problems/car-pooling/)
+ # [15) 357. Count Numbers with Unique Digits #Medium](https://leetcode.com/problems/count-numbers-with-unique-digits/)
+ # [16) 169. Majority Element #Easy](https://leetcode.com/problems/majority-element/)
+ # [17) 119. Pascal's Triangle II #Easy](https://leetcode.com/problems/pascals-triangle-ii/)
+ # [18) 37. Sodoku Solver #Hard](https://leetcode.com/problems/sudoku-solver/)
  
  
 
