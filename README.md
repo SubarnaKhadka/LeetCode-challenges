@@ -19,6 +19,8 @@
  # [18) 37. Sodoku Solver #Hard](https://leetcode.com/problems/sudoku-solver/)
  # [19) 1679. Max Number of K-Sum Pairs #Medium](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
  # [20) 1291. Sequential Digits #Medium](https://leetcode.com/problems/sequential-digits/)
+ # [21) 17. Letter Combinations of a Phone Number #Medium](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+ # [22) 1209. Remove All Adjacent Duplicates in String II #Medium](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
  
  
 
