@@ -17,6 +17,8 @@
  # [16) 169. Majority Element #Easy](https://leetcode.com/problems/majority-element/)
  # [17) 119. Pascal's Triangle II #Easy](https://leetcode.com/problems/pascals-triangle-ii/)
  # [18) 37. Sodoku Solver #Hard](https://leetcode.com/problems/sudoku-solver/)
+ # [19) 1679. Max Number of K-Sum Pairs #Medium](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
+ # [20) 1291. Sequential Digits #Medium](https://leetcode.com/problems/sequential-digits/)
  
  
 
